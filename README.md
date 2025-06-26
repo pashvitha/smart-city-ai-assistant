@@ -22,11 +22,13 @@ Python – Programming language
 (or can be deployed using Streamlit / FastAPI / GitHub Actions)
 
 📦 Installation
+
 Clone the repository and install dependencies:
 
-git clone https://github.com/your-username/smart-city-ai-assistant.git
+git clone https://github.com/pashvitha/smart-city-ai-assistant.git
 cd smart-city-ai-assistant
 pip install -r requirements.txt
+
 
 Run the app:
 python app.py
